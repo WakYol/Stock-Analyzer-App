@@ -47,7 +47,8 @@ It fetches live market data via the **Yahoo Finance API**, runs deep algorithmic
 ## 🛠️ Tech Stack
 
 - **Frontend:** ViteJS  
-- **Backend:** Node.js  
+- **Backend:** Node.js
+- **Style:** Tailwind
 - **API:** Yahoo Finance API  
 - **Processing:** Custom background algorithms  
 
