@@ -22,17 +22,17 @@ It fetches live market data via the **Yahoo Finance API**, runs deep algorithmic
 
 ## 🖼️ Preview
 
-| Signal Output | Indicators Pin |
-|----------------|
-![Buy Signal]
+**Signal Output & Indicators Pin**
+
+*Buy Signal*
 
 <img src="https://i.ibb.co/BHf4Bh7k/buy-signal.png" alt="buy signal" border="0" style="border-radius: 15px;">
 
-![Sell Signal]
+*Sell Signal*
 
 <img src="https://i.ibb.co/6R84XkFy/sell-signal.png" alt="sell signal" border="0" style="border-radius: 15px;">
 
-![Hold Signal]
+*Hold Signal*
 
 <img src="https://i.ibb.co/s9qK4fVM/hold-signal.png" alt="hold signal" border="0" style="border-radius: 15px;">
 
