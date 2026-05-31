@@ -1,7 +1,7 @@
 # 📈 Stock Market Analysis Tool(Experimental)
 
 ## Project Screenshot 
-<img src="https://i.ibb.co/m5KGQgNb/klse-stock-analyzer.png" alt="klse stock analyzer" border="1" style="border-radius: 15px;">
+<img src="https://i.ibb.co/Jw1VSy2n/klse-stock-analyzer.png" alt="klse stock analyzer" border="0">
 
 ## 🔍 Overview
 
