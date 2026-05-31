@@ -1,7 +1,7 @@
 # 📈 Stock Market Analysis Tool(Experimental)
 
-![Project Screenshot](link-to-your-screenshot.png)  
-*(Replace with actual image link – e.g., from GitHub issues or a public image URL)*
+![Project Screenshot] 
+<img src="https://i.ibb.co/m5KGQgNb/klse-stock-analyzer.png" alt="klse stock analyzer" border="0">
 
 ## 🔍 Overview
 
@@ -22,19 +22,22 @@ It fetches live market data via the **Yahoo Finance API**, runs deep algorithmic
 
 ## 🖼️ Preview
 
-| Dashboard | Indicators | Signal Output |
-|-----------|------------|----------------|
-| ![Dashboard](link-to-dashboard-image) | ![Indicators](link-to-indicators-image) | ![Signal](link-to-signal-image) |
+| Signal Output | Indicators Pin |
+|----------------|
+![Buy Signal](link-to-signal-image) 
+<img src="https://i.ibb.co/BHf4Bh7k/buy-signal.png" alt="buy signal" border="0">
 
-*(Add actual image links above)*
+![Sell Signal](link-to-signal-image) 
+<img src="https://i.ibb.co/6R84XkFy/sell-signal.png" alt="sell signal" border="0">
+
+![Hold Signal](link-to-signal-image) 
+<img src="https://i.ibb.co/s9qK4fVM/hold-signal.png" alt="hold signal" border="0">
 
 ---
 
 ## 🌐 Live Demo
 
-👉 **[Click here to view the live application](https://your-app-url.com)**  
-
-*(Replace with your deployed link – e.g., Vercel, Netlify, Render, or custom domain)*
+👉 **[Click here to view the live application](https://stock-analyzer-prod.vercel.app/)**  
 
 ---
 
@@ -64,14 +67,6 @@ This project showcases my ability to:
 ✅ Technical indicators – complete  
 🔄 Deep algo computation – active  
 ⚠️ Final signal – experimental (accuracy improving over time)
-
----
-
-## 📎 Links
-
-- [Live App](https://your-app-url.com)  
-- [Project Backend Repo](link-if-separate) *(optional)*  
-- [Yahoo Finance API Docs](https://finance.yahoo.com/)
 
 ---
 
