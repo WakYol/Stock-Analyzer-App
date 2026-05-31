@@ -12,7 +12,7 @@ It fetches live market data via the **Yahoo Finance API**, runs deep algorithmic
 
 ## ✨ Key Features
 
-- 📡 **Real-time stock data** from Yahoo Finance  
+- 📡 **Near real-time stock data** from Yahoo Finance  
 - 📊 **Technical indicators** (RSI, MACD, Moving Averages, Bollinger Bands)  
 - 🧠 **Deep background computation** – heavy math processed without blocking UI  
 - 🔮 **Experimental final signal** – aggregated buy/sell/hold suggestion  
