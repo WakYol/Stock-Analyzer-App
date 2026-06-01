@@ -1,4 +1,4 @@
-# 📈 Stock Market Analysis Tool(Experimental)
+# 📈 Stock Market Analysis Tool (Experimental)
 
 ## Project Screenshot 
 <img src="https://i.ibb.co/Jw1VSy2n/klse-stock-analyzer.png" alt="klse stock analyzer" border="0">
@@ -48,9 +48,10 @@ It fetches live market data via the **Yahoo Finance API**, runs deep algorithmic
 
 - **Frontend:** ViteJS  
 - **Backend:** Node.js
-- **Style:** Tailwind
+- **Style:** Tailwind CSS
 - **API:** Yahoo Finance API  
-- **Processing:** Custom background algorithms  
+- **Processing:** Custom background algorithms
+- **Mobile Web-View Support:** ✅
 
 ---
 
