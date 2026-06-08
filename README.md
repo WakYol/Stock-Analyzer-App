@@ -51,7 +51,7 @@ It fetches live market data via the **Yahoo Finance API**, runs deep algorithmic
 - **Style:** Tailwind CSS
 - **API:** Yahoo Finance API  
 - **Processing:** Custom background algorithms
-- **Mobile Web-View Support:** ✅
+- **Mobile Browser Web-View Support:** ✅
 
 ---
 
